@@ -1,1 +1,16 @@
+Dataset Introduction
+
+1、the total emissions data from three carbon-emitting sectors.xlsx
+The dataset starts from December 4, 2020, and continues up to February 4, 2022, providing detailed statistical information about the EU27 in the areas of environment, health, economy, and energy markets during this period.
+
+2、the total emissions data from four carbon-emitting sectors.xlsx
+This dataset provides carbon emission data for various sectors (such as domestic aviation, ground transport, industry, international aviation, power, and residential) in the European Union-27 (EU27) countries from May 7, 2021, to May 6, 2022. It also includes detailed information on COVID-19 vaccinations, such as total vaccinations, people vaccinated, fully vaccinated individuals, booster doses, and daily vaccination rates. Additionally, the dataset contains economic and energy market data related to carbon emissions, including stock market indices (CAC40, FTSE100, DAX30, S&P500, STOXX50, etc.), commodity prices (Brent crude oil spot prices, natural gas futures), total returns on European renewable energy, and carbon market data. Presented as daily records, the dataset offers an in-depth look at the EU27's environmental policies, public health responses, and market dynamics during this period.
+
+
+3、Data on carbon emissions from different industries(pre day).xlsx
+This dataset records the daily carbon emissions from various industries (including domestic aviation, ground transport, industry, international aviation, power, and residential) from 2019 to 2023.
+
+
+4、Data on carbon emissions from different industries.xlsx
+This dataset records the daily carbon emissions from various industries (including domestic aviation, ground transport, industry, international aviation, power, and residential) from 2019 to 2023(don’t include date)
 
