@@ -1,1 +1,2 @@
-pass
+Processed Data refers to the data that has been processed for model training.
+Raw Data, on the other hand, is the unprocessed data obtained through web scraping or downloaded from the official database websites.
